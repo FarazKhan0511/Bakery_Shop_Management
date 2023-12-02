@@ -4,7 +4,7 @@
 
 The Bakery Shop Management System is a comprehensive web-based application developed on .NET and HTML, utilizing MySQL Server or Oracle databases for efficient data management. Its primary goal is to streamline daily bakery shop operations, encompassing inventory management, sales tracking, customer orders, and employee information.
 
-## Key Features
+## Key Features :
 
 1. **Product Management:** Keep track of inventory, product types, quantities, and pricing.
 
@@ -19,14 +19,15 @@ The Bakery Shop Management System is a comprehensive web-based application devel
 6. **Financial Reporting:** Generate reports to analyze profits, losses, and expenses for data-driven decision-making.
 
 7. **User Authentication and Authorization:** Secure access with role-based authentication and authorization.
-## Tech Stack
+   
+## Tech Stack :
 
 **Front-end:**  .Net, HTML
 
 **Back-end:** MySQL, Oracle
 
 
-## Installation Steps
+## Installation Steps :
 
 1. Install required software: .NET Framework, MySQL Server or Oracle Database.
 2. Clone the repository to your local machine.
@@ -35,7 +36,8 @@ The Bakery Shop Management System is a comprehensive web-based application devel
 5. Build the .NET project using appropriate commands.
 6. Deploy the application to a compatible web server.
 7. Access the Bakery Shop Management System through a web browser.
-## Usage
+   
+## Usage :
 
 1. Register as a new user or log in with existing credentials.
 2. The dashboard displays sales stats, pending orders, and relevant information.
@@ -44,10 +46,11 @@ The Bakery Shop Management System is a comprehensive web-based application devel
 5. Manage customer information for better service.
 6. Maintain employee records, roles, and working hours.
 7. Generate financial reports for insights into bakery performance.
-## Contributing
+   
+## Contributing :
 
 Feel free to contribute through pull requests or by raising issues in the repository.
 
-## Acknowledgments
+## Acknowledgments :
 
 This project was developed to address the need for an organized system to efficiently manage bakery shops.
